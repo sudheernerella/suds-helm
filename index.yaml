@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  suds:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-09T20:46:31.3309449-05:00"
+    description: A Helm chart for Kubernetes
+    digest: d89c9223715ceff8084c35bd028bbf558c30fb404ce3cd938d3e77ea8e525df3
+    name: suds
+    type: application
+    urls:
+    - https://github.com/sudheernerella/suds-helm/suds-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-09T20:46:31.3297787-05:00"
