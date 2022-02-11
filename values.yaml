@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: https://hub.docker.com/repository/docker/sudhernerella/microservice1
-  pullPolicy: IFnotPresent
+  pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.0"
 imagePullSecrets: []
